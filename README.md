@@ -1,4 +1,5 @@
 # project
+> build by [Vue CLI3](https://cli.vuejs.org/zh/)
 
 ## Project setup
 ```
