@@ -6,8 +6,8 @@ export default new VueRouter({
   routes: [
     {
       path: '/',
-      name: 'home',
-      component: () => import('./views/Home.vue')
+      name: 'index',
+      component: () => import('./views/index.vue')
     },
     {
       path: '/about',
